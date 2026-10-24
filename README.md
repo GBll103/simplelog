@@ -2,7 +2,7 @@
 A log module made by Python
 
 ## BEFORE WE BEGIN
-Define a *log_obj()* object
+Import *simplelog* module and define a *log_obj()* object
 
 **Example:**
 ```python
